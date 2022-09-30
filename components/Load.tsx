@@ -1,5 +1,4 @@
 import LoadStyles from '../styles/Load.module.css'
-import cn from 'classnames'
 
 const Load = () => {
   return (
