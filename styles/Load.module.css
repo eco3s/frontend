@@ -1,0 +1,20 @@
+.logoIcon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-image: url(/Logo.png);
+  width: 200px;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 3rem;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, -200%);
+}
