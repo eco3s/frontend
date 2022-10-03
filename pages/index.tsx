@@ -3,7 +3,7 @@ import Load from '../components/Load'
 
 const Home: NextPage = () => {
   return (
-    <div style={{ height: "100vh" }}>
+    <div>
       <Load />
     </div>
   )
