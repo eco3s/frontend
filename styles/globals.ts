@@ -3,6 +3,13 @@ import reset from 'styled-reset';
 
 export const GlobalStyle = createGlobalStyle`
 	${reset}
+
+  :root {
+    --LSG-color: #1EB79A;
+    --MS-color: #00E6A4;
+    --UFO-color: #3FE48A;
+  }
+  
   * {
     box-sizing: border-box;
     padding: 0;
